@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Kamil! 👋
 
-<!--
-**PollakDEV/PollakDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 Student from Gdańsk, Poland 🇵🇱
+- 🌐 Passionate about IT, web development, and self-hosting
+- 💼 Actively looking for job opportunities
+- 🏠 Owner of [HomelabWiki.com](https://homelabwiki.com) 🖥️
+- 🏗️ Currently learning web development (Frontend & Backend)
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+- 🔹 Web Development: HTML, CSS, JavaScript, React
+- 🔹 Backend: Node.js, Express, Python
+- 🔹 Databases: PostgreSQL, MariaDB
+- 🔹 DevOps & Self-Hosting: HomeLab setups, Linux, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- 🔗 [Discord](#) (true_cha0s)
+- 📧 Email: owner@homelabwiki.pl
+
+## 🎯 Goals for 2025
+- ✅ Improve my Full-Stack development skills
+- ✅ Build & contribute to open-source projects
+- ✅ Land my first tech job!
+
+Thanks for stopping by! 🚀 Feel free to connect or check out my projects! 🔥
