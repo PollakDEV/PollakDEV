@@ -7,6 +7,11 @@
 - 🏠 Owner of [HomelabWiki.com](https://homelabwiki.com) 🖥️
 - 🏗️ Currently learning web development (Frontend & Backend)
 
+## 🎯 Goals for 2025
+- ✅ Improve my Full-Stack development skills
+- ✅ Build & contribute to open-source projects
+- ✅ Land my first tech job!
+
 ## 🚀 Technologies & Tools
 <h3>🖥️ Programming Languages</h3>
 <p>
@@ -46,10 +51,5 @@
 ## 📫 Connect With Me
 - 🔗 [Discord](#) (true_cha0s)
 - 📧 Email: owner@homelabwiki.pl
-
-## 🎯 Goals for 2025
-- ✅ Improve my Full-Stack development skills
-- ✅ Build & contribute to open-source projects
-- ✅ Land my first tech job!
 
 Thanks for stopping by! 🚀 Feel free to connect or check out my projects! 🔥
