@@ -4,7 +4,7 @@
 - 🎓 Student from Gdańsk, Poland 🇵🇱
 - 🌐 Passionate about IT, web development, and self-hosting
 - 💼 Actively looking for job opportunities
-- 🏠 Owner of [HomelabWiki.com](https://homelabwiki.com) 🖥️
+- 🏠 Owner of [HomelabWiki.com](https://homelabwiki.pl) 🖥️
 - 🏗️ Currently learning web development (Frontend & Backend)
 
 ## 🎯 Goals for 2025
